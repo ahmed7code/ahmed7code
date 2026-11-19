@@ -5,7 +5,7 @@
 - Age: 20
 - From: Saudi Arabia
 - Role: Front-end && Web/Web App Developer
-- description: I am a front-end developer passionate about creating interactive, fast, and modern web experiences. I focus on writing clean, maintainable code and transforming designs into responsive, touch-friendly websites that work seamlessly across all devices.
+- Description: I am a front-end developer passionate about creating interactive, fast, and modern web experiences. I focus on writing clean, maintainable code and transforming designs into responsive, touch-friendly websites that work seamlessly across all devices.
 
 ## 🛠️ Tech Stack
 
